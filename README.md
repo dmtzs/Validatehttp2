@@ -1,9 +1,9 @@
 # Instructions
 
 ## Description and purpose of this project
-This project was buildded just for validate if a site has http2 enabled.
+This project was builded just for validate if a site has http2 enabled.
 <br>
-Also if the certificate is not validate for all ways to type the url will appear the same program.
+Also if the certificate is not valid for all ways to type the url will appear in the same program.
 
 ## Installation and considerations
 * You need to have python 3 or upper installed.
