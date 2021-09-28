@@ -1,11 +1,22 @@
-# Instructions
+<p align="center">
+  <!--img width="280" src="https://github.com/dmtzs/ProyectoRaspArduino/blob/master/resources/Imgs/BoaEsmeraldaAppOriginal.png" alt="logo"-->
+  <h1 align="center" style="margin: 0 auto 0 auto;">Http2 validator</h1>
+  <h5 align="center" style="margin: 0 auto 0 auto;">validate a webpage if is using http2 protocol</h5>
+</p>
 
-## Description and purpose of this project
+<p align="center">
+    <img src="https://img.shields.io/github/last-commit/dmtzs/Validatehttp2">
+    <img src="https://img.shields.io/github/contributors/dmtzs/Validatehttp2">
+    <img src="https://img.shields.io/github/issues/dmtzs/Validatehttp2?label=issues">
+    <img src="https://img.shields.io/github/stars/dmtzs/Validatehttp2">
+</p>
+
+## The project
 This project was builded just for validate if a site has http2 enabled.
 <br>
 Also if the certificate is not valid for all ways to type the url will appear in the same program.
 
-## Installation and considerations
+## Installation, libraries and considerations
 * You need to have python 3 or upper installed.
 * The program can run in Windows, Linux and Mac.
 * All the libraries used are installed by default with python.
