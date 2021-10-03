@@ -6,9 +6,16 @@
 
 <p align="center">
     <img src="https://img.shields.io/github/last-commit/dmtzs/Validatehttp2">
-    <img src="https://img.shields.io/github/contributors/dmtzs/Validatehttp2">
     <img src="https://img.shields.io/github/issues/dmtzs/Validatehttp2?label=issues">
     <img src="https://img.shields.io/github/stars/dmtzs/Validatehttp2">
+    <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/dmtzs/Validatehttp2">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/languages/code-size/dmtzs/Validatehttp2">
+  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/dmtzs/Validatehttp2">
+  <img alt="Lines of code" src="https://img.shields.io/tokei/lines/github/dmtzs/Validatehttp2?label=total%20lines%20in%20repo">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/dmtzs/Validatehttp2">
 </p>
 
 ## The project
